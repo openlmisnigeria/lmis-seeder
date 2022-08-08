@@ -1,0 +1,4 @@
+code,name,description,enableDatePhysicalStockCountCompleted,periodsSkippable,showNonFullSupplyTab,skipAuthorization,active
+COVAX,COVAX,,TRUE,TRUE,FALSE,TRUE,TRUE
+SIA Vaccination,SIA Vaccination,,TRUE,TRUE,FALSE,TRUE,TRUE
+Routine Immunization Vaccination,Routine Immunization Vaccination,,TRUE,TRUE,FALSE,TRUE,TRUE
