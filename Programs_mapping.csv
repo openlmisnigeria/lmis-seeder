@@ -1,6 +1,6 @@
 from ,to,type,entityName,defaultValue
 code,code,DIRECT,,
-name,code,DIRECT,,
+name,name,DIRECT,,
 description,description,DIRECT,,
 enableDatePhysicalStockCountCompleted,enableDatePhysicalStockCountCompleted,DIRECT,,
 periodsSkippable,periodsSkippable,DIRECT,,
